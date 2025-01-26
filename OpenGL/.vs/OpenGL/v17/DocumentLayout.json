@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{96F479E1-4E80-40A9-B4E1-DCB9B55BB7EC}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F479E1-4E80-40A9-B4E1-DCB9B55BB7EC}|OpenGL\\OpenGL.vcxproj|C:\\dev\\Cherno\\OpenGL\\OpenGL\\OpenGL\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{96F479E1-4E80-40A9-B4E1-DCB9B55BB7EC}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Cherno\\OpenGL\\OpenGL\\OpenGL\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "OpenGL\\src\\Application.cpp",
               "ToolTip": "C:\\dev\\Cherno\\OpenGL\\OpenGL\\OpenGL\\src\\Application.cpp",
               "RelativeToolTip": "OpenGL\\src\\Application.cpp",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAiwIkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwIYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-26T09:18:01.874Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "OpenGL\\res\\shaders\\Basic.shader",
               "ToolTip": "C:\\dev\\Cherno\\OpenGL\\OpenGL\\OpenGL\\res\\shaders\\Basic.shader",
               "RelativeToolTip": "OpenGL\\res\\shaders\\Basic.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-26T07:47:51.865Z",
               "EditorCaption": ""
